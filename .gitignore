@@ -1,4 +1,5 @@
 /data
 /Day_*
+*.pdf
 .ipynb_checkpoints
 *.csv
