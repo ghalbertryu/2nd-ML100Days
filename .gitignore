@@ -1,5 +1,8 @@
 /data
 /Day_*
+/installStep
+/prediction
+/log
 *.pdf
 .ipynb_checkpoints
 *.csv
